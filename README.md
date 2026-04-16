@@ -12,7 +12,7 @@ Welcome! This repository contains the technical resources from my talk at the PA
 
 ### 🛠️ Detection Queries
 * [Microsoft Sentinel (KQL) - AiTM Detection](https://gist.github.com/Clixo/639f7aac5fc2d50972731561c31027ea)
-* [Splunk (SPL) - Impossible Travel Velocity](https://gist.github.com/Clixo/26517926c429466f635b563d89443ff2))
+* [Splunk (SPL) - Impossible Travel Velocity](https://gist.github.com/Clixo/26517926c429466f635b563d89443ff2)
 
 ### 🤝 Connect with Me
 * [LinkedIn](https://linkedin.com/in/joeldprentice/)
