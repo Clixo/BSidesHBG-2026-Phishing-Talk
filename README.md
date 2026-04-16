@@ -7,7 +7,7 @@ Resources, queries, and playbook for my talk 'Phishing: Same Watering Holes, New
 Welcome! This repository contains the technical resources from my talk at the PA Farm Show Complex.
 
 ### 📖 Digital Materials
-* [Download the 8-Page Threat Hunting Playbook (PDF)](LINK_TO_UPLOADED_PDF)
+* [Download the 8-Page Threat Hunting Playbook (PDF)](https://github.com/Clixo/BSidesHBG-2026-Phishing-Talk/blob/main/Phishing%20Same%20Watering%20Holes%2C%20New%20Lures..pdf)
 * [Interactive Flipbook Version (Heyzine)](https://heyzine.com/flip-book/b5d71c3c08.html#page/1)
 
 ### 🛠️ Detection Queries
