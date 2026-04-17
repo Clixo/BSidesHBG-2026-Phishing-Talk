@@ -1,0 +1,6 @@
+If you want to find the Evilginx server before the attack even hits your users, use JARM or TLS hunting:
+
+JARM Fingerprinting: Evilginx (written in Go) often has a specific JARM hash. While it varies by Go version, a common signature for Evilginx servers is:
+2ad2ad16d2ad2ad0002ad2ad2ad2ad988e4046755452d37c862413b5266299
+
+Search for Certificate Clusters: Look for domains registered in the last 48 hours that have more than 4 subdomains (e.g., login.*, account.*, outlook.*) all resolving to a single DigitalOcean or Linode IP.
