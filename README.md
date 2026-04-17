@@ -13,7 +13,6 @@ Welcome! This repository contains the technical resources from my talk at the PA
 ### 🛠️ Detection Queries
 * [Microsoft Sentinel (KQL) - AiTM Detection](https://gist.github.com/Clixo/639f7aac5fc2d50972731561c31027ea)
 * [Splunk (SPL) - Impossible Travel Velocity](https://gist.github.com/Clixo/26517926c429466f635b563d89443ff2)
-* [Evilginx Detections]
 *   [Known Evilginx Redirect Patterns](https://gist.github.com/Clixo/346a8e32cd763ab07531717c3b48ccb6)
 *   [Detection: Session Hijacking (Cookie used by new IP)](https://gist.github.com/Clixo/25676318bc7fcb3d0cb12fd19455109a)
 *   [Detection: Anomalous Multi-Account Sign-in from One IP](https://gist.github.com/Clixo/5b0f4061b823315513fceaeb0932d0f8)
