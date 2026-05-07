@@ -9,6 +9,7 @@ Welcome! This repository contains the technical resources from my talk at the PA
 ### 📖 Digital Materials
 * [Download the 8-Page Threat Hunting Playbook (PDF)](https://github.com/Clixo/BSidesHBG-2026-Phishing-Talk/blob/main/Phishing%20Same%20Watering%20Holes%2C%20New%20Lures..pdf)
 * [Interactive Flipbook Version (Heyzine)](https://heyzine.com/flip-book/b5d71c3c08.html#page/1)
+* [The Technical Triage & Eviction](https://github.com/Clixo/BSidesHBG-2026-Phishing-Talk/blob/main/The%20Technical%20Triage%20%26%20Eviction%20.pdf)
 
 ### 🛠️ Detection Queries
 * [Microsoft Sentinel (KQL) - AiTM Detection](https://gist.github.com/Clixo/639f7aac5fc2d50972731561c31027ea)
